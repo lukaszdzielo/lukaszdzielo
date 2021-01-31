@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm 👋
 
-<p><a href="https://lukaszdzielo.github.io">Website</a></p>
+<p align="center"><a href="https://lukaszdzielo.github.io">Portfolio Site</a> · <a href="https://www.linkedin.com/in/lukasz-dzielo-0428b4148/">LinkedIn</a> · <a href="https://www.behance.net/lukaszdzielo">Behance</a> · <a href="https://codepen.io/Lukaszdz27">Codepen</a></p>
 
 <p>I have been dealing with websites since 2012. Initially as a graphic designer, and until today as a Front-end. In my work Im guided by the code simplicity and consistency, always adjusting to the vision of my Client. Im working on upgrading my qualifications so prospectively I will learn JS to fulfill the expectations of my Clients.</p>
 
