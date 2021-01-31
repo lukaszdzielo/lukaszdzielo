@@ -1,4 +1,4 @@
-### Hi there, I'm 👋
+### Hi! I’m Łukasz 👋
 
 <p align="center"><a href="https://lukaszdzielo.github.io">Portfolio Site</a> · <a href="https://www.linkedin.com/in/lukasz-dzielo-0428b4148/">LinkedIn</a> · <a href="https://www.behance.net/lukaszdzielo">Behance</a> · <a href="https://codepen.io/Lukaszdz27">Codepen</a></p>
 
