@@ -6,6 +6,8 @@
 
 <p>Mainly companies for which I provide services work on Bootstrap, so and everything that others do in Javascript, I make up for it using SCSS and HTML. I mainly get a graphic design and cut it to a clean code, and then it is hooked up to a dedicated CMS system. I also worked on Wordpress using Enfold, Divi, Bridge and Jupiter. Learning Vue and React is my goal for the near future.</p>
 
+- 🌱 I’m currently learning JavaScript
+
 <!-- **lukaszdzielo/lukaszdzielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
