@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://lukaszdzielo.github.io">Website</a>
-</p>
+<p><a href="https://lukaszdzielo.github.io">Website</a></p>
 
 <p>I have been dealing with websites since 2012. Initially as a graphic designer, and until today as a Front-end. In my work Im guided by the code simplicity and consistency, always adjusting to the vision of my Client. Im working on upgrading my qualifications so prospectively I will learn JS to fulfill the expectations of my Clients.</p>
 
