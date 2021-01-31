@@ -1,23 +1,9 @@
-### Hi! I’m Łukasz 👋
+<br>
+
+<h3 align="center">👋 Hi! I’m Łukasz!</h3>
 
 <p align="center"><a href="https://lukaszdzielo.github.io">Portfolio Site</a> · <a href="https://www.linkedin.com/in/lukasz-dzielo-0428b4148/">LinkedIn</a> · <a href="https://www.behance.net/lukaszdzielo">Behance</a> · <a href="https://codepen.io/Lukaszdz27">Codepen</a></p>
 
-<p>I have been dealing with websites since 2012. Initially as a graphic designer, and until today as a Front-end. In my work Im guided by the code simplicity and consistency, always adjusting to the vision of my Client. Im working on upgrading my qualifications so prospectively I will learn JS to fulfill the expectations of my Clients.</p>
+<p align="center">I'm currently learning JavaScript, and when I create a basic project with it, the next language to learn is Vue.js. If you want to find out more, please visit my website where you can find the projects I have been working on :)</p>
 
-<p>Mainly companies for which I provide services work on Bootstrap, so and everything that others do in Javascript, I make up for it using SCSS and HTML. I mainly get a graphic design and cut it to a clean code, and then it is hooked up to a dedicated CMS system. I also worked on Wordpress using Enfold, Divi, Bridge and Jupiter. Learning Vue and React is my goal for the near future.</p>
-
-- 🌱 I’m currently learning JavaScript
-
-<!-- **lukaszdzielo/lukaszdzielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
